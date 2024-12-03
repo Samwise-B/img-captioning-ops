@@ -1,0 +1,9 @@
+fastapi
+wandb
+datasets
+sentencepiece
+transformers
+uvicorn
+python-multipart
+torch
+torchvision

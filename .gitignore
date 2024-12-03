@@ -1,0 +1,7 @@
+venv/
+weights/
+
+*.jpeg
+*.jpg
+
+__pycache__
